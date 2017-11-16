@@ -1,2 +1,1 @@
-# module-rubygem-rspec
-Development repo for modules/rubygem-rspec
+# modules/rubygem-rspec
